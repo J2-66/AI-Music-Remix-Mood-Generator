@@ -4,10 +4,10 @@ AI-powered web application that generates mood-based music and allows intelligen
 
 An AI-powered web application that allows users to:
 
- 🎶 Generate music based on mood
+-🎶 Generate music based on mood
 
-  🎧 Remix uploaded songs using AI-based audio transformations
+ -🎧 Remix uploaded songs using AI-based audio transformations
 
-  📥 Download generated and remixed music
+ -📥 Download generated and remixed music
 
 This project is built using Python, Streamlit, and Digital Signal Processing techniques.
