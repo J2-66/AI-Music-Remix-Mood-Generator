@@ -11,3 +11,10 @@ An AI-powered web application that allows users to:
  -📥 Download generated and remixed music
 
 This project is built using Python, Streamlit, and Digital Signal Processing techniques.
+
+##📌 Project Objective
+Remixing or creating music typically requires professional tools and technical expertise. This project provides a simple and interactive platform where students can:
+•	Generate music based on emotional moods
+•	Apply AI-based remix transformations
+•	Explore creative expression without advanced technical knowledge
+
